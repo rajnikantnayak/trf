@@ -1,0 +1,10 @@
+.training-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(155, 155, 155, 0.25);
+    padding: 0.5rem;
+    margin: 1rem 0;
+    background-color: rgb(173, 230, 196);
+   
+  }

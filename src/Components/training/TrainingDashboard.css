@@ -1,0 +1,25 @@
+
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+  }
+
+input {
+    margin-left: 2px;
+    width: 250px;
+}
+
+select{
+  margin-left: 2px;
+  width: 250px;
+  height: 20px;
+}
+
+.form-container{
+  background-color: lightblue;
+}
+
+button{
+  background-color: green;
+}

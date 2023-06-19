@@ -1,0 +1,12 @@
+
+.Title {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color: rgb(173, 230, 196);
+    color: #0e0c0c;
+  }
